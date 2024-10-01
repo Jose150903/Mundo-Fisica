@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Rog G75V\Desktop\Boceto proyecto\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Conversion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EjemplosMCUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EjemplosMRU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EjemplosMRUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EjemploTiroParabolico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EjemploTVCL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCUDescripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCUEjemplos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCUResolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCUVDescripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCUVResolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MRUVDescripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MRUVResolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TiroParabolicoDescripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TiroParabolicoResolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TiroVerticalyCaidaLibre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TVCL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
