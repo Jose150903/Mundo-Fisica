@@ -1,0 +1,37 @@
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Release\net8.0-windows\MundoFísica.exe
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Release\net8.0-windows\MundoFísica.deps.json
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Release\net8.0-windows\MundoFísica.runtimeconfig.json
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Release\net8.0-windows\MundoFísica.dll
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Release\net8.0-windows\MundoFísica.pdb
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.Conversion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.EjemplosMCUV.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.EjemplosMRU.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.EjemplosMRUV.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.EjemploTiroParabolico.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.EjemploTVCL.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.Form1.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.Form2.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.Form3.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.Form4.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.MCUDescripcion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.MCUEjemplos.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.MCUResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.MCUVDescripcion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.MCUVResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.MRUVDescripcion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.MRUVResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.Properties.Resources.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.TiroParabolicoDescripcion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.TiroParabolicoResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.TiroVerticalyCaidaLibre.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto_proyecto.TVCL.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto proyecto.csproj.GenerateResource.cache
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto proyecto.AssemblyInfoInputs.cache
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto proyecto.AssemblyInfo.cs
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\MundoFísica.dll
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\refint\MundoFísica.dll
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\MundoFísica.pdb
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\Boceto proyecto.genruntimeconfig.cache
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Release\net8.0-windows\ref\MundoFísica.dll

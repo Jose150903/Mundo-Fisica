@@ -1,0 +1,102 @@
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\bin\Debug\net8.0-windows\Boceto proyecto.exe
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\bin\Debug\net8.0-windows\Boceto proyecto.deps.json
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\bin\Debug\net8.0-windows\Boceto proyecto.runtimeconfig.json
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\bin\Debug\net8.0-windows\Boceto proyecto.dll
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\bin\Debug\net8.0-windows\Boceto proyecto.pdb
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form1.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form2.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Properties.Resources.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.csproj.GenerateResource.cache
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.AssemblyInfoInputs.cache
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.AssemblyInfo.cs
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.dll
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\refint\Boceto proyecto.dll
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.pdb
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.genruntimeconfig.cache
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\ref\Boceto proyecto.dll
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form3.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form4.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Conversion.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Conversiones.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemplosMRU.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemplosMRUV.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MRUVDescripcion.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MRUVResolucion.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUDescripcion.resources
+C:\Users\Rog G75V\Desktop\Proyectos en visual\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Conversion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemplosMRU.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemplosMRUV.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form1.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form2.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form3.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form4.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUDescripcion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MRUVDescripcion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MRUVResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Properties.Resources.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.csproj.GenerateResource.cache
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.AssemblyInfoInputs.cache
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.AssemblyInfo.cs
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.genruntimeconfig.cache
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemplosMCUV.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUEjemplos.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUVDescripcion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUVResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.TVCL.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.TiroVerticalyCaidaLibre.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemploTVCL.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.TiroParabolicoDescripcion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.TiroParabolicoResolucion.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemploTiroParabolico.resources
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.exe
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.deps.json
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.runtimeconfig.json
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.dll
+C:\Users\Rog G75V\Desktop\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.pdb
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\MundoFísica.dll
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\refint\MundoFísica.dll
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\MundoFísica.pdb
+C:\Users\Rog G75V\Desktop\Boceto proyecto\obj\Debug\net8.0-windows\ref\MundoFísica.dll
+D:\Todo\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.exe
+D:\Todo\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.deps.json
+D:\Todo\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.runtimeconfig.json
+D:\Todo\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.dll
+D:\Todo\Boceto proyecto\bin\Debug\net8.0-windows\MundoFísica.pdb
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Conversion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemplosMCUV.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemplosMRU.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemplosMRUV.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemploTiroParabolico.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.EjemploTVCL.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form1.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form2.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form3.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Form4.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUDescripcion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUEjemplos.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUResolucion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUVDescripcion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MCUVResolucion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MRUVDescripcion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.MRUVResolucion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.Properties.Resources.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.TiroParabolicoDescripcion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.TiroParabolicoResolucion.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.TiroVerticalyCaidaLibre.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto_proyecto.TVCL.resources
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.csproj.GenerateResource.cache
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.AssemblyInfoInputs.cache
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.AssemblyInfo.cs
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.csproj.CoreCompileInputs.cache
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\MundoFísica.dll
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\refint\MundoFísica.dll
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\MundoFísica.pdb
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\Boceto proyecto.genruntimeconfig.cache
+D:\Todo\Boceto proyecto\obj\Debug\net8.0-windows\ref\MundoFísica.dll

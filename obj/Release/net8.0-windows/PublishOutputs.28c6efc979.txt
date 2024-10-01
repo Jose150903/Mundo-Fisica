@@ -1,0 +1,5 @@
+C:\Users\Rog G75V\Desktop\Power BI\MundoFísica.exe
+C:\Users\Rog G75V\Desktop\Power BI\MundoFísica.dll
+C:\Users\Rog G75V\Desktop\Power BI\MundoFísica.deps.json
+C:\Users\Rog G75V\Desktop\Power BI\MundoFísica.runtimeconfig.json
+C:\Users\Rog G75V\Desktop\Power BI\MundoFísica.pdb
